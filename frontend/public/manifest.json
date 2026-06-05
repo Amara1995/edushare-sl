@@ -1,0 +1,22 @@
+{
+  "name": "Sierra Leone Education Platform",
+  "short_name": "SL Edu",
+  "description": "Free educational resources for Sierra Leone students and teachers",
+  "theme_color": "#1EB53A",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
